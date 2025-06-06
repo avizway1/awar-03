@@ -1,1 +1,13 @@
+
+#Ignore the avinash.txt file
 avinash.txt
+
+#Ignore .bkp files
+*.bkp
+
+#Ignore jar files
+*.jar
+
+#Ignore if any file name starts with x/y/z
+[xyz]*.txt
+
